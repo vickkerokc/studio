@@ -1,2 +1,0 @@
-# studio
-OKC Skyline Studios
