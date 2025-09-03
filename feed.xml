@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>OKC Skyline Studio</title>
-    <link href="https://okskyline.studio/feed.xml" rel="self" />
-    <link href="https://okskyline.studio" />
+    <link href="https://okcskyline.studio/feed.xml" rel="self" />
+    <link href="https://okcskyline.studio" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>OSS</name>
     </author>
-    <id>https://okskyline.studio</id>
+    <id>https://okcskyline.studio</id>
 
 </feed>
